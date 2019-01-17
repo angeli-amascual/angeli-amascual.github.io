@@ -29,4 +29,12 @@ I'm not completely unfamiliar with this type of learning and some of my past Com
 
 ### A Stressful Opponent: Workout of the Day
 
-Another aspect of this class besides self-learning is the introduction of Workout of the Day's or WOD's for short. 
+Another aspect of this class besides self-learning is the introduction of Workout of the Day's or WOD's for short. WOD's are tasks assigned by the professor that need to be completed within a certain amount of time.
+
+The introduction of WOD's was a very new experience for me. In my opinion they're a bit stressful since they're timed and I'm required to think quickly and creatively to write out the code necessary to carry out the assigned task. ALthough they're stressful I think they're a good way to challenge students. By making WOD's timed and in class, students are unable to look for help online or from their peers which makes them rely solely on their own abilities. 
+
+Prior to doing the in class WOD the professor assigned practice WOD's for students to do online. These are very helpful and gives an idea of what the in class WOD will be like. Recently my class finished our first in class WOD. In comparison to doing the practice WOD's the in class WOD made me feel very pressured since my grade depended on how well I did and if I was able to finish in time. However, since I was able to get an idea of what the in class WOD would be like as well as practiced writing code for tasks similar to it, I was able to complete the WOD within an average amount of time. Due to this, I will continue doing practice WOD's and hopefully I'll be able to continue successfully completing WOD's.
+
+## Final thoughts on Javascript and ICS 314
+
+Although I only know the basics of Javascript so far I'm looking forward to learning more about it in detail. Due to my interest in Web Development I will pay close attention to the upcoming lessons in order to advance my fluency in the language. In addition, in order to do well not only on the in class WOD's but ICS 314 in general, I will continue to do the practice WOD's as well as devoting time in order to learn and understand the material. 
