@@ -13,7 +13,7 @@ The first programming language that I learned was Java, and that was during my f
 
 ## Background and First Thoughts
 
-Prior to delving into Javascript I was knowledgable in both Java and C, with some (but not a lot of) experience in C++. With those three languages as my background, things like syntax and concepts such as functions and arrays were not incredibly difficult to understand. Many parts of Javascript reminded me of Java and C and my background in those languages definitely helped my overall learning experience. However, one part about Javascript that I noticed which significantly differed from the past languages I've learned are variables. 
+Prior to delving into Javascript I was knowledgable in both Java and C, with some (but not a lot of) experience in C++. With those three languages as my background, things like syntax and concepts such as functions and arrays were not incredibly difficult to understand. Many parts of Javascript reminded me of Java and C, which helped my overall learning experience. However, one part about Javascript that I noticed which significantly differed from the past languages I've learned are variables. 
 
 As opposed to having variable types such as "int","float","string","char", etc., the realization that javascript (in the case of the freecodecamp lesson) used "var" to define any type of variable was very surprising it and took a while to get used to. After learning a bit more I also realized that there were also things like "const" and "let" to define variables. However, it was still so out of the box compared to the variable types used in Java and C. 
 
