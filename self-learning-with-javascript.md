@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-The first programming language I learned was Java, and that was during my first semester as a Computer Science major. Everything I was learning back then was so new and unfamiliar to me, causing me to worry about how difficult it'd be to learn other programming languages in the future. This past week I've been self-learning basic Javascript through freecodecamp and it brought back those past memories and made me realize how much I've changed since then.
+The first programming language that I learned was Java, and that was during my first semester as a Computer Science major. Everything I was learning back then was so new and unfamiliar to me, causing me to worry about how difficult it'd be to learn other programming languages in the future. This past week I've been self-learning basic Javascript through freecodecamp and it brought back those past memories and made me realize how much I've changed since then.
 
 ## Background and First Thoughts
 
