@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Mario Flight Simulator
+permalink: projects/Mario-Flight-Simulator
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-12-03
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - ICS 111
+  - Game
+summary: My team created a game using Java for our ICS 111 final project.
 ---
 
 <div class="ui small rounded images">
