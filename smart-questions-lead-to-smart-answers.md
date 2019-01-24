@@ -11,6 +11,7 @@ labels:
 
 There is a popular saying when it comes to asking questions.
 
-<blockquote> "There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question". <footer> Carl Sagan <footer> <blockquote> 
+<blockquote> "There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question". <blockquote> 
+<footer> Carl Sagan <footer>
 
 
