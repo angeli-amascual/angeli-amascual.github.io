@@ -9,8 +9,15 @@ labels:
   - Communication
 ---
 
-There is a popular saying when it comes to asking questions.
+There is a popular saying when it comes to asking questions. It has many different forms but despite that, they all still manage to give the same message. 
 
-<blockquote> "There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question". 
-<footer> Carl Sagan </footer>
+<blockquote> "There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question". -Carl Sagan
 </blockquote>
+
+This kind of saying is often heard in classrooms when teachers are trying to incorporate interaction from students during lessons. They encourage questions and assure students there is no such thing as a bad question, or in the case of this essay: a stupid one. There is a significant debate on whether the above quote is true but in this essay I will not be talking about questions in a negative light such as that. Instead, I'll be reflecting on how people can ask questions in a "smart way".
+
+##The Smart Way Of Asking Questions
+
+Although whether stupid questions do exist is still up for debate, certain kinds of questions will naturally lead to different sorts of answers. After doing a quick search on StackOverflow, a certain [question](https://stackoverflow.com/questions/54323086/changing-javascript-functions-parameter-value-using-arguments-array-not-working) caught my eye. First off, the title of the question already drew me in: "Changing JavaScript function's parameter value using arguments array not working". The title of the question is the first thing that people see on StackOverflow so it's important to get the gist of what you need help with so that the right people can click on your question and help you. This title is short but manages to let people know what their problem is. After clicking on the problem, there is extra information and details which supplement the title question. The user also provides the code snippets which allows people trying to answer the question to understand where they might have gone wrong. At the end of the question, the user also adds in their own thoughts on the problem they're experiencing and why they're confused it's not working.
+
+This question garnered 19 votes, 6 answers, and over 700 views. The answers this question received in particular are also detailed and help to clearly clarify the confusion the user was experiencing. In addition, different answers provide supplemental links for further understanding and help regarding the problem.
