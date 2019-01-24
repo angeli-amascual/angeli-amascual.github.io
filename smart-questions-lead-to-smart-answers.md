@@ -11,7 +11,7 @@ labels:
 
 There is a popular saying when it comes to asking questions. It has many different forms but despite that, they all still manage to give the same message. 
 
-<blockquote> "There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question". -Carl Sagan
+<blockquote> "There are naive questions, tedious questions, ill-phrased questions, questions put after inadequate self-criticism. But every question is a cry to understand the world. There is no such thing as a dumb question." -Carl Sagan
 </blockquote>
 
 This kind of saying is often heard in classrooms when teachers are trying to incorporate interaction from students during lessons. They encourage questions and assure students there is no such thing as a bad question, or in the case of this essay: a stupid one. There is a significant debate on whether the above quote is true but in this essay I will not be talking about questions in a negative light such as that. Instead, I'll be reflecting on how people can ask questions in a "smart way".
