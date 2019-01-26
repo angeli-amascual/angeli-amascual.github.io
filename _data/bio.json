@@ -37,11 +37,6 @@
       "name": "Artificial Intelligence",
       "keywords": [
       ]
-    },
-    {
-      "name": "Game Development",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -65,12 +60,6 @@
       "endDate": "Present",
       "gpa": "3.56",
       "courses": [
-         "ICS 111",
-         "ICS 141",
-         "ICS 211",
-         "ICS 212",
-         "ICS 311",
-         "ICS 314"
       ]
     }
   ],
@@ -95,7 +84,7 @@
       "position": "Member",
       "startDate": "2017-09-01",
       "endDate": "2018-05-18",
-      "summary": ""
+      "summary": "",
       "highlights": [
         "Work in a team to create and organize entertaining events",
         "Help with set up, clean up, and running events"
