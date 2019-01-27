@@ -13,7 +13,7 @@ labels:
 summary: A game created for a final group project for ICS 111
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/game-pic.png">
 
 Mario Flight Simulator is a game that I helped to create during my ICS 111 class along with two others. For our final project we had to work in groups to create a program that helped to demonstrate our understanding of everything we learned that semester.
 
