@@ -13,7 +13,4 @@ labels:
 summary: My team created a game using Java for our ICS 111 final project.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/flight sim.png">
-</div>
 
