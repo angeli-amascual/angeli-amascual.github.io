@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mario-pic.png
+image: images/flight-prof.png
 title: Mario Flight Simulator
 permalink: projects/Mario-Flight-Sim
 # All dates must be YYYY-MM-DD format!
