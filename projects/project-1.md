@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/grad.jpg
+image: images/whs.png
 title: WHS c/o 2016 Graduation
 permalink: projects/grand-usher
 # All dates must be YYYY-MM-DD format!
