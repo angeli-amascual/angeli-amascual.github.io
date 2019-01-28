@@ -9,7 +9,7 @@ labels:
   - Skills
 ---
 
-<img class="ui medium left floated rounded image" src="../images/software-engineering-word-cloud.jpg">
+<img class="ui medium left floated rounded image" src="../images/software-engineering-word-cloud.png">
 
 Computer Science is a very broad term that encompasses many different fields. As a current student of ICS 314: Software Engineering 1, I am starting to learn more about those fields as well as gain an idea of what I'm interested in pursuing further into the future.
 
