@@ -12,7 +12,7 @@ labels:
 summary: A project using C language which manages a database of records
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/c-pic.png">
+<img class="ui medium right floated rounded image" src="/images/c-pic.png">
 
 For my ICS 212 class we had to complete a project which involved creating a working database of records over a series of homework assignments. Often we were assigned to first write out psuedocode for an assigned section of the project (i.e. Write psuedocode to add/delete a record) before actually coding. Then, we had to take all of the assignments which focused on one area of the code and put them together to make a single functioning program.
 
