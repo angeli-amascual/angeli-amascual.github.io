@@ -3,13 +3,13 @@ layout: project
 type: project
 image: images/mario-pic.png
 title: WHS c/o 2016 Graduation
-permalink: projects/Mario-Flight-Sim
+permalink: projects/grand-usher
 # All dates must be YYYY-MM-DD format!
-date: 2017-12-03
+date: 2016-05-20
 labels:
-  - Java
-  - ICS 111
-  - Game
+  - High School
+  - Graduation
+  - Grand Usher
 summary: I was one of three Grand Ushers for Waipahu High School's Class of 2016 graduation
 ---
 
