@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/C-language.jpg
+title: C Project
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-10-21
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C language
+  - ICS 212
+summary: A project using C language which manages a database of records
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
