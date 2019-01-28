@@ -13,12 +13,11 @@ labels:
 summary: I was one of three Grand Ushers for Waipahu High School's Class of 2016 graduation
 ---
 
-<img class="ui medium left floated rounded image" src="../images/game-pic.png">
+<img class="ui medium left floated rounded image" src="../images/grad1.jpg">
+<img class="ui medium left floated rounded image" src="../images/grad2.jpg">
 
-Mario Flight Simulator is a game that I helped to create during my ICS 111 class along with two others. For our final project we had to work in groups to create a program that helped to demonstrate our understanding of everything we learned that semester.
+At the high school I attended, part of the set-up a preparation for the graduation ceremony was done by the grade level student councils. During my sophomore year of high school I was selected to be a Grand Usher for the following year's graduation.
 
-The Mario Flight Simulator was written using java code along the [EZ Library](http://www2.hawaii.edu/~dylank/ics111/). We were given a little over a month for the whole process: brainstorming the program idea, distributing roles, coding, and debugging. 
+That same year I shadowed the current year's Grand Ushers along with two others in order to prepare myself for the following year. The duties of a grand usher include leading the Graduation Usher meetings attended by the student council members. We were also required to assign positions (i.e. aisle guard, processional leaders, diploma distributor) to all of the ushersed to assign positions and make preparations to ensure the graduation practice and graduation ceremony ran smoothly.
 
-Through this project I experienced what it's like to code in a team setting. This includes sharing code and making sure everyone's code within the team is updated whenever changes are made. Also, I was able to practice writing Java code in a bigger scale in comparison to the homework and in-class assignments given throughout the semester.
-
-Here is a [link](https://www.youtube.com/watch?v=7Q8WPcMoNAA) to a video showcasing the game.
+Through this experience I learned how to be thorough and meticulous because nothing could be allowed to go wrong on the day of the ceremony. I also gained experience with working under stress and pressure as well as creative and quick-witted. On that day, any problems that occured had to be solved to the best degree possible and slip-ups were not tolerated.
