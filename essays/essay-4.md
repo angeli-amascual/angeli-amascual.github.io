@@ -10,7 +10,7 @@ labels:
   - Coding Style
 ---
 
-<img class="ui medium left floated rounded image" src="../images/eslint.png">
+<img class="ui medium right floated rounded image" src="../images/eslint.png">
 
 In the past week I was introduced to something called [ESLint](https://stackoverflow.com/questions/54323086/changing-javascript-functions-parameter-value-using-arguments-array-not-working). According to the site it is:
 
