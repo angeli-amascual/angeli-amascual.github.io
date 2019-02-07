@@ -12,7 +12,7 @@ labels:
 
 <img class="ui medium left floated rounded image" src="../images/eslint.png">
 
-In the past week I was introduced to something called [ESLint](https://stackoverflow.com/questions/54323086/changing-javascript-functions-parameter-value-using-arguments-array-not-working) through my ICS 314: Software Engineering class. According to the site's homepage, ESLint is:
+In the past week I was introduced to something called [ESLint](https://stackoverflow.com/questions/54323086/changing-javascript-functions-parameter-value-using-arguments-array-not-working) through my ICS 314: Software Engineering class by my professor. According to the site's homepage, ESLint is:
 
 <blockquote>
  "...an open source project originally created by Nicholas C. Zakas in June 2013. Its goal is to provide a pluggable linting utility for JavaScript." -ESLint Homepage
