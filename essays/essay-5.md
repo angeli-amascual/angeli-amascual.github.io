@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How Semantic UI Is Stressful But Useful
+title: My Ups and Downs With Semantic UI 
 date: 2019-01-16
 labels:
   - Semantic UI
