@@ -11,13 +11,13 @@ labels:
 
 <img class="ui medium left floated rounded image" src="../images/logo.png">
 
-Recently I was introduced to UI Frameworks (User Interface Frameworks). Previously when using [IntelliJ Idea](https://www.jetbrains.com/idea/) to create websites it was through writing pure HTML and CSS code. Now however, I'm learning how to use [Semantic UI](https://semantic-ui.com/) and incorporating it into my code. 
+Recently I was introduced to UI Frameworks (User Interface Frameworks). Previously when using [IntelliJ Idea](https://www.jetbrains.com/idea/) to create websites it was through writing pure HTML and CSS code. Now, however, I'm learning how to use [Semantic UI](https://semantic-ui.com/) and incorporating it into my code. 
 
 ### Tricky Hurdles Encountered
 
-Although I'm now using Semantic UI to create websites, it was just a couple weeks ago that I learned how the how-to's and rules for HTML/CSS. Due to that, I sometimes still have to look things up in order to make sure I'm using the right syntax for my code. Adding in Semantic UI which is even newer to me adds to that even further. 
+Although I'm now using Semantic UI to create websites, it was just a couple weeks ago that I learned how the how-tos and rules for HTML/CSS. Due to that, I sometimes still have to look things up in order to make sure I'm using the right syntax for my code. Adding in Semantic UI which is even newer to me adds to that even further. 
 
-Just today I had to recreate a website for an in-class timed assignment and I was struggling because parts of my site wasn't coming out how I intended them to be. It was only after closely looking through each line of code that I realized slight word variations as well as spelling mistakes in my code that wasn't caught by IntelliJ Idea as an error. An example of both can be seen below.
+Just today I had to recreate a website for an in-class timed assignment and I was struggling because parts of my site weren't coming out how I intended them to be. It was only after closely looking through each line of code that I realized slight word variations as well as spelling mistakes in my code that wasn't caught by IntelliJ Idea as an error. An example of both can be seen below.
 
 My code:
 ```
@@ -32,7 +32,7 @@ What it was supposed to be:
 font stlye: italic;
 ```
 
-In addition, using Semantic UI is a bit tricky due the many different things that can be done with it. Since I'm still a beginner to using it I'm only familiar with specific parts of Semantic UI that I've had to use in previous assignments such as columns and menus. With just a glance at their site however there are plenty of other things that Semantic UI can be used for such as pop ups, steps, reveals, etc. It's a little intimidating but I'm looking forward to trying out those other elements in order to create better websites.
+In addition, using Semantic UI is a bit tricky due to the many different things that can be done with it. Since I'm still a beginner to using it I'm only familiar with specific parts of Semantic UI that I've had to use in previous assignments such as columns and menus. With just a glance at their site however, there are plenty of other things that Semantic UI can be used for such as pop-ups, steps, reveals, etc. It's a little intimidating but I'm looking forward to trying out those other elements in order to create better websites.
 
 ### Amazing Re-creation Ability
 
