@@ -40,12 +40,12 @@ With using only HTML/CSS I wasn't incredibly impressed with the websites I was m
 
 Original Site:
 
-<img class="ui medium left floated rounded image" src="../images/actual.png">
+<img class="ui medium rounded image" src="../images/actual.png">
 
 
 My Re-Creation of the Site:
 
-<img class="ui medium left floated rounded image" src="../images/mine1.png">
+<img class="ui medium rounded image" src="../images/mine1.png">
 
 In addition, I've also looked at my fellow classmates' re-creations of their chosen sites and it's only helped to further my amazement for Semantic UI.
 
