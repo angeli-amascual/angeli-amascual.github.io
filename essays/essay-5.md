@@ -38,9 +38,10 @@ In addition, using Semantic UI is a bit tricky due the many different things tha
 
 With using only HTML/CSS I wasn't incredibly impressed with the websites I was making. They didn't look well-made and if I had clicked on a link to a site like that I probably would have closed out of it just based on the appearance. However, Semantic UI has blown my mind due to how much more professional my sites have turned out. In a previous assignment for my ICS 314: Software Engineering class we were required to choose a website and copy it the best we could using Semantic UI. Below are pictures showing the original site I used as well as the one I created to mimic it.
 
-Orgiginal Site:
+Original Site:
 
 <img class="ui medium left floated rounded image" src="../images/actual.png">
+
 
 My Re-Creation of the Site:
 
