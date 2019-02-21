@@ -11,7 +11,7 @@ labels:
 
 <img class="ui medium left floated rounded image" src="../images/logo.png">
 
-Recently I was introduced to UI Frameworks (User Interface Frameworks). Previously when using IntelliJ IDEA to create websites it was through writing pure HTML and CSS code. Now however, I'm learning how to use Semantic UI and incorporating it into my code. 
+Recently I was introduced to UI Frameworks (User Interface Frameworks). Previously when using [IntelliJ Idea](https://www.jetbrains.com/idea/) to create websites it was through writing pure HTML and CSS code. Now however, I'm learning how to use [Semantic UI](https://semantic-ui.com/) and incorporating it into my code. 
 
 ### Tricky Hurdles Encountered
 
