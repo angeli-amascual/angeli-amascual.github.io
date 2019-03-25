@@ -34,8 +34,8 @@ The solution: Create a website/application that allows students to find others w
 4. User logs in, user goes to the popular events page, goes to event page, goes to invite page.
 
 ### Beyond the basics
--Login using UH CAS
--Connection to Google Calendar
--Social media connections (on profile page?)
--Review old events.
+- Login using UH CAS
+- Connection to Google Calendar
+- Social media connections (on profile page?)
+- Review old events.
 
