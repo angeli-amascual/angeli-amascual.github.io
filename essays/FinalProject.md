@@ -8,12 +8,12 @@ labels:
   - Meteor
 ---
 
-###Overview
+### Overview
 The problem: Students are interested in doing many activities but it’s no fun doing them alone. 
 
 The solution: Create a website/application that allows students to find others who are interested in doing similar things. 
 
-###Mockup Page Ideas
+### Mockup Page Ideas
 Landing Page
 Home Page
 Sign up
@@ -27,13 +27,13 @@ Friend Page
 Event Page
 Review Page
 
-###Use Case Ideas
+### Use Case Ideas
 A new user goes to the landing page, signs up, is sent to home page, sets up profile page, goes to the create events page (to create an event). 
 User goes to landing page, logs in, creates event, invites friend, goes to edit events page. 
 User logs in, user goes to the search/match page, goes to event page, goes to the invite page.
 User logs in, user goes to the popular events page, goes to event page, goes to invite page.
 
-###Beyond the basics
+### Beyond the basics
 Login using UH CAS
 Connection to Google Calendar
 Social media connections (on profile page?)
