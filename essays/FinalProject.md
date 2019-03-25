@@ -14,18 +14,18 @@ The problem: Students are interested in doing many activities but it’s no fun 
 The solution: Create a website/application that allows students to find others who are interested in doing similar things. 
 
 ### Mockup Page Ideas
--Landing Page
--Home Page
--Sign up
--Profile Page
--Match/Search Page
--Popular Events Page
--Create Events Page
--Edit Events Page
--Invite Page
--Friend Page
--Event Page
--Review Page
+- Landing Page
+- Home Page
+- Sign up
+- Profile Page
+- Match/Search Page
+- Popular Events Page
+- Create Events Page
+- Edit Events Page
+- Invite Page
+- Friend Page
+- Event Page
+- Review Page
 
 ### Use Case Ideas
 1. A new user goes to the landing page, signs up, is sent to home page, sets up profile page, goes to the create events page (to create an event). 
