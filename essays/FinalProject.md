@@ -8,6 +8,8 @@ labels:
   - Meteor
 ---
 
+By: Angeli Amascual, Tyler Chinen, Max Deyo
+
 ### Overview
 The problem: Students are interested in doing many activities but it’s no fun doing them alone. 
 
