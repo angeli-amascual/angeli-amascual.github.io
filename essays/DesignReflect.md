@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Patern Prestige
+title: Pattern Prestige
 date: 2019-04-24
 labels:
   - Software Engineering
