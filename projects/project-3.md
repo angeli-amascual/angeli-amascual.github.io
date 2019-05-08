@@ -23,6 +23,6 @@ Through working on and creating the Manoa Study Hub web application I learned ho
 
 My personal contributions for this project include creating the landing page as well as the calendar page. In addition, I helped assist my fellow team members when they encountered difficulties with their own code by researching and finding suitable solutions.
 
-<img class="ui medium right floated rounded image" src="/images/calendar2.png">
+<img class="ui large left floated rounded image" src="/images/calendar2.png">
 
 
