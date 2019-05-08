@@ -1,23 +1,28 @@
 ---
 layout: project
 type: project
-image: images/C-language.jpg
-title: C Project
+image: images/OrganizationLogo1.png
+title: Manoa Study Hub
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-21
+date: 2019-05-01
 labels:
-  - C language
-  - ICS 212
-summary: A project using C language which manages a database of records
+  - Javascript
+  - GitHub
+  - Group project
+summary: A group project for ICS 314 revolving around creating an online web application.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/c-pic.png">
+<img class="ui medium right floated rounded image" src="/images/landing-m3.jpg">
 
-For my ICS 212 class we had to complete a project which involved creating a working database of records over a series of homework assignments. Often we were assigned to first write out psuedocode for an assigned section of the project (i.e. Write psuedocode to add/delete a record) before actually coding. Then, we had to take all of the assignments which focused on one area of the code and put them together to make a single functioning program.
+My final project for ICS 314: Software Engineering was to work in a group to create an online web application. The web application that my group chose to implement was called "Manoa Study Hub" and the project page can be viewed (here)[https://manoastudyhub.github.io/]. In addition, the actual web application can be seen via this (link)[http://manoastudyhub.meteorapp.com/#/].
 
-This program allowed the user to add records, print a record, print all records, as well as delete records. Extra features also include a debug mode and a read and write aspect which saved records from the previous time the program ran.
+Manoa Study Hub is a web application used to find and create study groups for classes at the University of Hawaii at Manoa. Users of this web application have their own profile which features their major, class standing, subjects, as well as a description. In addition, each user has a customized user home page which shows the study sessions they are attending, study sessions involving their major, as well as other students who either have the same major or are taking similar subjects. Another feature of the web application is their calendar page which showcases both past and future study sessions the user is attending.
 
-Through this project I learned how to efficiently write psuedocode to help make writing code easier. I also received experience in programming using the C language. In addition, I learned about other aspects such as how to use Makefile and SCCS.
+Through working on and creating the Manoa Study Hub web application I learned how to work with a team to accomplish a goal. Some key experiences I gained from this include learning how to delegate tasks as the project took form, communicate difficulties or problems with other members, and manage my time and other classwork in order to work efficiently. 
+
+My personal contributions for this project include creating the landing page as well as the calendar page. In addition, I helped assist my fellow team members when they encountered difficulties with their own code by researching and finding suitable solutions.
+
+<img class="ui medium right floated rounded image" src="/images/calendar2.png">
 
 
