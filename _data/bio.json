@@ -47,7 +47,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
       ]
     }
   ],
