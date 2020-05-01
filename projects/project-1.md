@@ -14,7 +14,7 @@ summary: I was one of three Grand Ushers for Waipahu High School's Class of 2016
 ---
 
 <img class="ui medium left floated rounded image" src="../images/grad1.jpg">
-<img class="ui medium right floated rounded image" src="../images/grad2.jpg">
+<img class="ui medium left floated rounded image" src="../images/grad2.jpg">
 
 <br/>
 
