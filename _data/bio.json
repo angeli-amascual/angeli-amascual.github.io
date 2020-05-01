@@ -53,6 +53,17 @@
         "Lisp",
         "Prolog"
       ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "Ubuntu",
+        "GitHub"
+        "Meteor",
+        "Eclipse",
+      ]
     }
   ],
   "education": [
