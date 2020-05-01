@@ -6,7 +6,7 @@
     "email": "aamascua@hawaii.edu",
     "phone": "808-585-1190",
     "website": "https://angeli-amascual.github.io",
-    "summary": "I am a second year B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring 2021.",
+    "summary": "I am a third year B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -49,7 +49,9 @@
         "Java",
         "Javascript",
         "HTML",
-        "CSS"
+        "CSS",
+        "Lisp",
+        "Prolog"
       ]
     }
   ],
