@@ -12,7 +12,6 @@ labels:
   - Grand Usher
 summary: I was one of three Grand Ushers for Waipahu High School's Class of 2016 graduation
 ---
-
 <img class="ui medium left floated rounded image" src="../images/grad2.jpg">
 
 At the high school I attended, part of the set-up a preparation for the graduation ceremony was done by the grade level student councils. During my sophomore year of high school I was selected to be a Grand Usher for the following year's graduation.
