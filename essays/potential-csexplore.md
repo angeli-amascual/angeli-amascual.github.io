@@ -16,7 +16,7 @@ The [CSExplore Resources](https://radgrad.github.io/docs/csexplore/resources) pa
 
 Resources such as [Code.org](https://code.org/educate/curriculum/high-school), [Exploring Computer Science](http://www.exploringcs.org/), and [Tableau](https://www.tableau.com/data-for-kids) include things like course information and curriculum on teaching and learning computer science material. [UMass CS Careers Page](https://www.cics.umass.edu/careers/) and [Hack Club](https://hackclub.com/), on the other hand, are sites that contain valuable information for students already interested in the Computer Science field. This includes things such as nearby opportunities, interview help, and resume review for the former and online chatrooms for coding help or related questions for the latter.
 
-CSExplore could be used as a center of information containing all of the above resources. By doing so, CSExplore can easily introduce these resources to high-school students as opposed to them having to research it all themselves.
+CSExplore could be used as a center of information containing all of the above resources. By doing so, CSExplore can easily introduce these resources to high-school students as opposed to them having to search for it all themselves.
 
 ### Making CSExplore Unique
 
