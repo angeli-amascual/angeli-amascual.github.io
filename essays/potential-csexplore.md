@@ -8,15 +8,13 @@ labels:
   - Computer Science
 ---
 
-[CSExplore](https://radgrad.github.io/docs/csexplore/goals) is a mobile application in development that aims to encourage overall interest and involvement in Computer Science for high-school students. To do this, the application seeks to improve the CS pipeline from high-school to college and help high-school students participate in local Computer Science events and organization.
+[CSExplore](https://radgrad.github.io/docs/csexplore/goals) is a mobile application in development that aims to encourage overall interest and involvement in Computer Science for high-school students. To do this, the application seeks to improve the CS pipeline from high-school to college and help high-school students participate in local Computer Science events and organizations. In addition, the application also plans to use data from [RadGrad](https://radgrad.ics.hawaii.edu/) which contains information on extracurricular activities and courses available to undergraduate students.
 
 ### CSExplore's Resources
 
 The [CSExplore Resources](https://radgrad.github.io/docs/csexplore/resources) page has many different resources available. Each resource contains valuable information that can be used to make CSExplore a unique and useful mobile application. Since the target demographic of CSExplore is high school students, any of the resources listed likewise caters to that audience. 
 
 Resources such as [Code.org](https://code.org/educate/curriculum/high-school), [Exploring Computer Science](http://www.exploringcs.org/), and [Tableau](https://www.tableau.com/data-for-kids) include things like course information and curriculum on teaching and learning computer science material. [UMass CS Careers Page](https://www.cics.umass.edu/careers/) and [Hack Club](https://hackclub.com/), on the other hand, are sites that contain valuable information for students already interested in the Computer Science field. This includes things such as nearby opportunities, interview help, and resume review for the former and online chatrooms for coding help or related questions for the latter.
-
-Recently I was introduced to UI Frameworks (User Interface Frameworks). Previously when using [IntelliJ Idea](https://www.jetbrains.com/idea/) to create websites it was through writing pure HTML and CSS code. Now, however, I'm learning how to use [Semantic UI](https://semantic-ui.com/) and incorporating it into my code. 
 
 ### Making CSExplore Unique
 
