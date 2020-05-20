@@ -12,7 +12,7 @@ labels:
 
 ### CSExplore's Resources
 
-The [CSExplore Resources](https://radgrad.github.io/docs/csexplore/resources) page has many different resources available. Each resource contains valuable information that can be used to make CSExplore a unique and useful mobile application. Since the target demographic of CSExplore is high school students, any of the resources listed likewise caters to that audience. 
+The [CSExplore Resources](https://radgrad.github.io/docs/csexplore/resources) page has many different resources available. Each resource contains valuable information that can be used to help make CSExplore a unique and useful mobile application. Since the target demographic of CSExplore is high school students, any of the resources listed likewise caters to that audience. 
 
 Resources such as [Code.org](https://code.org/educate/curriculum/high-school), [Exploring Computer Science](http://www.exploringcs.org/), and [Tableau](https://www.tableau.com/data-for-kids) include things like course information and curriculum on teaching and learning computer science material. [UMass CS Careers Page](https://www.cics.umass.edu/careers/) and [Hack Club](https://hackclub.com/), on the other hand, are sites that contain valuable information for students already interested in the Computer Science field. This includes things such as nearby opportunities, interview help, and resume review for the former and online chatrooms for coding help or related questions for the latter.
 
