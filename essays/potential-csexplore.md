@@ -18,10 +18,10 @@ Resources such as [Code.org](https://code.org/educate/curriculum/high-school), [
 
 ### Making CSExplore Unique
 
-Due to CSExlplore’s platform being a mobile application it already stands out from any of the above resources. Phones are more compact and easily accessible in comparison to computers. Teenagers also generally spend a lot of time on their phones which may make CSExplore more appealing. In addition, another way CSExplore can stand out from these other sites could be to have an interactive interface that promotes continuous use and provides benefits for doing so. 
+Due to CSExlplore’s platform being a mobile application it already stands out from any of the above resources. Phones are more compact and easily accessible in comparison to computers. Teenagers also generally spend a lot of time on their phones which may make CSExplore more appealing. 
 
-RadGrad is a platform that displays many opportunities for Computer Science students and rewards them for taking part in them. CSExplore can similarly be used as a way to easily introduce students to resources on learning Computer Science and practicing their programming skills. 
+Another way CSExplore can stand out from these other sites could be to have an interactive interface that promotes continuous use and provides benefits for doing so. RadGrad is a platform that displays many opportunities for Computer Science students and rewards them for taking part in them. CSExplore can similarly be used as a way to easily introduce students to resources on learning Computer Science and practicing their programming skills. 
 
-Since CSExplore is for high school students, I think a good feature would be to showcase what kind of skills and projects that undergraduate students at UH Manoa learn and build. This could possibly create interest in students and also encourage them to join the computer science program at UH Manoa. 
+Since CSExplore is for high school students, I think another good feature would be to showcase what kind of skills and projects that undergraduate students at UH Manoa learn and build. This could possibly create interest in students and also encourage them to join the computer science program at UH Manoa. 
 
 
