@@ -54,4 +54,4 @@ GitHub Stats:
 
 [CSExplore](https://radgrad.github.io/docs/csexplore/goals) is a mobile application that aims to encourage interest and involvement in Computer Science for high-school students. Of the frameworks listed above, I think that React Native would be the best choice to use for CSExplore. I believe that all of the members have experience with React which would make developing with React Native a bit easier compared to other frameworks. 
 
-In addition, React Native is a very popular framework that is used by highly-popular apps such as Facebook and Instagram. Although I’m not completely familiar with React Native, I’m familiar with those apps, what they look like and how they work. This leads me to believe that apps created with React Native are very capable and user-friendly.
+In addition, React Native is a very popular framework that created highly-used apps such as Facebook and Instagram. Although I’m not completely familiar with React Native, I’m familiar with those apps and what they look like and how they work. This leads me to believe that apps created with React Native are very capable and user-friendly.
