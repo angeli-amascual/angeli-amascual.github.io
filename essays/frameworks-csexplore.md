@@ -19,7 +19,7 @@ There are many options for those looking to create a mobile application. Of thos
 
 <img class="ui medium rounded image" src="../images/ReactNative.png">
 
-[React Native](https://reactnative.dev/) was released by Facebook who continues to support its development. It’s written in JavaScript and is rendered with native code. It features fast builds and loads which allows developers to see changes immediately after saving their code. Popular apps that use React Native include Facebook, Instagram, Pinterest, and Discord. It is also seen as the most popular option for building mobile applications with a large community.
+[React Native](https://reactnative.dev/) was released by Facebook. It’s written in JavaScript and is rendered with native code. It features fast builds and loads which allows developers to see changes immediately after saving their code. Popular apps that use React Native include Facebook, Instagram, Pinterest, and Discord. It is also seen as the most popular option for building mobile applications with a large community.
 
 GitHub Stats:
 * Used by 398k
@@ -52,6 +52,6 @@ GitHub Stats:
 
 ## Personal Thoughts For CSExplore’s Framework
 
-[CSExplore](https://radgrad.github.io/docs/csexplore/goals) is a mobile application that aims to encourage interest and involvement in Computer Science for high-school students. Of the frameworks listed above, I think that React Native would be the best choice to use for CSExplore. I believe that all of the members have experience with React which would make developing with React Native easier compared to the other frameworks. 
+[CSExplore](https://radgrad.github.io/docs/csexplore/goals) is a mobile application that aims to encourage interest and involvement in Computer Science for high-school students. Of the frameworks listed above, I think that React Native would be the best choice to use for CSExplore. I believe that all of the members have experience with React which would make developing with React Native a bit easier compared to other frameworks. 
 
-In addition, React Native is a very popular framework that is used by highly-popular apps such as Facebook and Instagram. Although I’m not familiar with React Native, I’m familiar with those apps and what they look like and how they work. This leads me to believe that apps created with React Native are very capable and user-friendly.
+In addition, React Native is a very popular framework that is used by highly-popular apps such as Facebook and Instagram. Although I’m not completely familiar with React Native, I’m familiar with those apps, what they look like and how they work. This leads me to believe that apps created with React Native are very capable and user-friendly.
