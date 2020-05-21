@@ -29,7 +29,7 @@ NativeScript
 
 [NativeScript](https://www.nativescript.org/) has an accessible and beautiful platform-native UI. It also allows direct access to all iOS and Android APIs. NativeScript uses JavaScript, CSS, and Native UI markup for developing applications. In addition, it offers free plugins, application samples, and templates on their marketplace. 
 
-GitHub Stats
+GitHub Stats:
 * Used by 12.2k
 * Starred by 18.5k
 * 6,068 commits
@@ -39,7 +39,7 @@ Flutter
 
 [Flutter](https://flutter.dev/) was created by Google. It is used to create mobile, web, and desktop applications. Flutter features fast development which allows for sub-second reload times. It also has a flexible and expressive UI that allows for full customization. Organizations like Google, New York Times, and BMW have built apps using Flutter. Instead of JavaScript, it uses the Dart programming language.
 
-GitHub Stats
+GitHub Stats:
 * Starred by 92.8k
 * 18,895 commits
 * 600 contributors
