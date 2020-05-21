@@ -31,7 +31,7 @@ GitHub Stats:
 
 <img class="ui medium rounded image" src="../images/nativescript.png">
 
-[NativeScript](https://www.nativescript.org/) has an accessible and beautiful platform-native UI. It also allows direct access to all iOS and Android APIs. NativeScript uses JavaScript, CSS, and Native UI markup for developing applications. In addition, it offers free plugins, application samples, and templates on their marketplace. 
+[NativeScript](https://www.nativescript.org/) has an accessible and beautiful platform-native UI. It also allows direct access to all iOS and Android APIs. NativeScript uses JavaScript/TypeScript, CSS, and Native UI markup for developing applications. In addition, it offers free plugins, application samples, and templates on their marketplace. 
 
 GitHub Stats:
 * Used by 12.2k
