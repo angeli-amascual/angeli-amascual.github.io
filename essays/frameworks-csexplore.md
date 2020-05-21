@@ -20,29 +20,29 @@ There are many options for those looking to create a mobile application. Of thos
 [React Native](https://reactnative.dev/) was released by Facebook who continues to support its development. It’s written in JavaScript and is rendered with native code. It features fast builds and loads which allows developers to see changes immediately after saving their code. Popular apps that use React Native include Facebook, Instagram, Pinterest, and Discord. It is also seen as the most popular option for building mobile applications with a large community.
 
 GitHub Stats:
-Used by 398k
-Starred by 87.4k
-20,207 commits
-2,105 contributors
+* Used by 398k
+* Starred by 87.4k
+* 20,207 commits
+* 2,105 contributors
 
 NativeScript
 
 [NativeScript](https://www.nativescript.org/) has an accessible and beautiful platform-native UI. It also allows direct access to all iOS and Android APIs. NativeScript uses JavaScript, CSS, and Native UI markup for developing applications. In addition, it offers free plugins, application samples, and templates on their marketplace. 
 
 GitHub Stats
-Used by 12.2k
-Starred by 18.5k
-6,068 commits
-169 contributors
+* Used by 12.2k
+* Starred by 18.5k
+* 6,068 commits
+* 169 contributors
 
 Flutter
 
 [Flutter](https://flutter.dev/) was created by Google. It is used to create mobile, web, and desktop applications. Flutter features fast development which allows for sub-second reload times. It also has a flexible and expressive UI that allows for full customization. Organizations like Google, New York Times, and BMW have built apps using Flutter. Instead of JavaScript, it uses the Dart programming language.
 
 GitHub Stats
-Starred by 92.8k
-18,895 commits
-600 contributors
+* Starred by 92.8k
+* 18,895 commits
+* 600 contributors
 
 ## Personal Thoughts For CSExplore’s Framework
 
