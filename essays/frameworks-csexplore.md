@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Mobile Frameworks and CSExplore
-date: 2020-05-20
+date: 2020-05-21
 labels:
   - Mobile Frameworks
   - CSExplore
@@ -43,7 +43,7 @@ GitHub Stats:
 
 <img class="ui medium rounded image" src="../images/flutter-logo-sharing.png">
 
-[Flutter](https://flutter.dev/) was created by Google. It is used to create mobile, web, and desktop applications. Flutter features fast development which allows for sub-second reload times. It also has a flexible and expressive UI that allows for full customization. Organizations like Google, New York Times, and BMW have built apps using Flutter. Instead of JavaScript, it uses the Dart programming language.
+[Flutter](https://flutter.dev/) was created by Google to make mobile, web, and desktop applications. Instead of JavaScript, it uses the Dart programming language. Flutter features fast development which allows for sub-second reload times. It also has a flexible and expressive UI that allows for full customization. Organizations like Google, New York Times, and BMW have built apps using Flutter.
 
 GitHub Stats:
 * Starred by 92.8k
