@@ -19,7 +19,7 @@ There are many options for those looking to create a mobile application. Of thos
 
 <img class="ui medium rounded image" src="../images/ReactNative.png">
 
-[React Native](https://reactnative.dev/) was released by Facebook. It’s written in JavaScript and is rendered with native code. It features fast builds and loads which allows developers to see changes immediately after saving their code. Popular apps that use React Native include Facebook, Instagram, Pinterest, and Discord. It is also seen as the most popular option for building mobile applications with a large community.
+[React Native](https://reactnative.dev/) was released by Facebook. It’s written in JavaScript and is rendered with native code. It features fast builds and loads which allows developers to see changes immediately after saving their code. Uses a single codebase which allows for shared code across platforms. Popular apps that use React Native include Facebook, Instagram, Pinterest, and Discord. It is also seen as the most popular option for building mobile applications with a large community.
 
 GitHub Stats:
 * Used by 398k
@@ -31,7 +31,7 @@ GitHub Stats:
 
 <img class="ui medium rounded image" src="../images/nativescript.png">
 
-[NativeScript](https://www.nativescript.org/) has an accessible and beautiful platform-native UI. It also allows direct access to all iOS and Android APIs. NativeScript uses JavaScript/TypeScript, CSS, and Native UI markup for developing applications. In addition, it offers free plugins, application samples, and templates on their marketplace. 
+[NativeScript](https://www.nativescript.org/) has an accessible and beautiful platform-native UI. It also allows direct access to all iOS and Android APIs. NativeScript supports using either Angular, Vue.js, JavaScript, or TypeScript for developing applications. Similarly with React Native it features single codebase for cross-platform use. In addition, it offers free plugins, application samples, and templates on their marketplace. 
 
 GitHub Stats:
 * Used by 12.2k
@@ -43,7 +43,7 @@ GitHub Stats:
 
 <img class="ui medium rounded image" src="../images/flutter-logo-sharing.png">
 
-[Flutter](https://flutter.dev/) was created by Google to make mobile, web, and desktop applications. Instead of JavaScript, it uses the Dart programming language. Flutter features fast development which allows for sub-second reload times. It also has a flexible and expressive UI that allows for full customization. Organizations like Google, New York Times, and BMW have built apps using Flutter.
+[Flutter](https://flutter.dev/) was created by Google to make mobile, web, and desktop applications. Instead of JavaScript, it uses the Dart programming language. Flutter features fast development which allows for sub-second reload times. It also has a variety of widgets available for customizing and making a beautiful UI for an application. Organizations like Google, New York Times, and BMW have built apps using Flutter.
 
 GitHub Stats:
 * Starred by 92.8k
