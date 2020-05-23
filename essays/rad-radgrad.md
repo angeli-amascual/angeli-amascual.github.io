@@ -19,7 +19,7 @@ Due to my involvement in CSExplore which is a part of RadGrad I’ve once again 
 
 ## Leveling Up In RadGrad
 
-RadGrad has a feature where students can level up by gaining points. These points are separated into three different categories: Innovation, Competency, and Experience. Upon my return to RadGrad I noticed I was level 2. In order to level up to level 3 I found that I needed to gain Innovation and Experience points. To do this I checked through what unverified opportunities I had on my degree planner. From there, I realized I could get Innovation and Experience points for my participation in [ACM Manoa](https://acmanoa.github.io/about/), a student organization at UH Manoa for computer science students. From here, I requested verification through the degree planner and shortly afterwards I was able to gain points and level up. 
+RadGrad has a feature where students can level up by gaining points. These points are separated into three different categories: Innovation, Competency, and Experience. Upon my return to RadGrad I noticed I was level 2. In order to level up to level 3 I found that I needed to gain Innovation and Experience points. To do this I checked through what unverified opportunities I had on my degree planner. From there, I realized I could get Innovation and Experience points for my participation in [ACM Manoa](https://acmanoa.github.io/about/), a student organization at UH Manoa for computer science students. After realizing that I then proceeded to request verification through the degree planner and shortly afterwards I was able to gain points and level up. 
 
 ## Possible Changes
 
