@@ -9,7 +9,7 @@ labels:
 
 <img class="ui medium rounded image" src="../images/radgrad.png">
 
-[RadGrad](https://radgrad.ics.hawaii.edu/) is an online website dedicated to helping develop computer scientists. It does this by helping undergraduate students discover their interests, prepare for their future, as well as assisting them in defining and achieving their career goals.
+[RadGrad](https://radgrad.ics.hawaii.edu/) is an online website dedicated to helping develop computer scientists. It does this by helping undergraduate students discover their interests and prepare for their future as well as assisting them in defining and achieving their career goals.
 
 ## Re-Introduction
 
