@@ -17,15 +17,17 @@ For my first remote pair programming session, I tried out Floobits with my fello
 
 Once we got the session started we decided I would try to access Quinne’s workspace first. I did so by clicking on a link she sent me which made it simple and easy. From there, I was able to view her code and after gaining permission from Quinne I was also able to edit. A neat feature was that we could see where the other’s mouse cursor. Floobits also has a “Summon” feature which results in being immediately taken to a specific part of the code.
 
-However, something that Floobits does not have is a way to share rendered code. In order to view each other’s rendered mockups, we used Zoom’s screen share feature. Through this, we were able to see the rendered website for each other. 
+However, something that Floobits does not have is a way to share rendered code. In order to view each other’s rendered mockups, we used Zoom’s screen share feature. Through this, we were able to see the rendered website for each other. After going through eachother's mockups we both gave input on things we noticed, liked, or could be improved on. This session lasted about half an hour.
 
 ## Session #2: Team Floobits
 
-The second remote pair programming session I participated in was with three other people, Quinne, [May Deyo](https://maxdeyo.github.io/), and [Hanna Park](https://hannaparkuh.github.io/). Similar to the first session we also used Floobits and had a Zoom call going to allow for voice communication. Since Quinne and I already had experience with Floobits it went quite smoothly. Even with the addition of two people Floobits worked well. We were all able to view and edit each other’s files. 
+The second remote pair programming session I participated in was with three other people, Quinne, [May Deyo](https://maxdeyo.github.io/), and [Hanna Park](https://hannaparkuh.github.io/). Similar to the first session we also used Floobits and had a Zoom call going to allow for voice communication. Since Quinne and I already had experience with Floobits it went quite smoothly. Even with the addition of two people Floobits worked well. We were all able to view and edit each other’s files. Likewise with Quinne and I's previous session, in addition to viewing eachother's code we also looked at each other's rendered mockups.
+
+Since the session involved four people there was a greater amound of feedback and discussion on the mockups and on CSExplore as an app in general. Although we did not do much actually coding together I thought it was a good way to see how everyone is doing in their tasks and what ideas they've come up with. This session lasted about an hour.
 
 ## Session #3: CodeTogether Teamwork
 
-For my third and last CodeTogether session, I worked again with Quinne, Max, and Hanna. However, this time instead of Floobits we used CodeTogether. This session revealed that CodeTogether only allows one person to type at a time. In my opinion this is viewed as a disadvantage in comparison to Floobits which allowed us to all type together without waiting for someone to finish.
+For my third and last CodeTogether session, I worked again with Quinne, Max, and Hanna. However, this time instead of Floobits we used CodeTogether. This session revealed that CodeTogether only allows one person to type at a time. In my opinion this was a disadvantage in comparison to Floobits which allowed us to all type together without waiting for someone to finish. This session lasted about half an hour.
 
 ## Remote Pair Programming Overview
 
