@@ -23,7 +23,7 @@ However, something that Floobits does not have is a way to share rendered code. 
 
 The second remote pair programming session I participated in was with three other people, Quinne, [May Deyo](https://maxdeyo.github.io/), and [Hanna Park](https://hannaparkuh.github.io/). Similar to the first session we also used Floobits and had a Zoom call going to allow for voice communication. Since Quinne and I already had experience with Floobits it went quite smoothly. Even with the addition of two people Floobits worked well. We were all able to view and edit each other’s files. Likewise with Quinne and I's previous session, in addition to viewing eachother's code we also looked at each other's rendered mockups.
 
-Since the session involved four people this allowed for a greater amount of feedback and discussion on the mockups and on CSExplore as an app in general. Although we did not do much actually coding together I thought it was a good way to see how everyone is doing in their tasks and what ideas they've come up with. This session lasted about an hour.
+Since the session involved four people this allowed for a greater amount of feedback and discussion on the mockups and on CSExplore as an app in general. Although we did not do much coding together since our files were in markdown which is relatively simple, I thought it was still a good way to see how everyone is doing in their tasks and what ideas they've come up with. This session lasted about an hour.
 
 ## Session #3: CodeTogether Teamwork
 
