@@ -1,3 +1,22 @@
+---
+layout: project
+type: project
+image: images/OrganizationLogo1.png
+title: CSExplore Mobile Application
+permalink: projects/cotton
+date: 2020-07-29
+labels:
+  - Mobile App Development
+  - React Native
+  - Javascript
+  - Expo
+  - GitHub
+  - Internship
+summary: A mobile application developed through a virtual internship with RadGrad.
+---
+
+<img class="ui medium right floated rounded image" src="/images/landing-m3.jpg">
+
 During the summer of 2020 I participated in a virtual internship with RadGrad and worked with three others to create a mobile application called CSExplore. The mobile app is targeted towards Hawaii high school students and aims to improve the Computer Science pipeline from high school to college by encouraging interest and awareness in Computer Science. It offers engaging content that will allow students to learn more about Computer Science topics and connect them to local CS communities and opportunities. 
 
 Our first step towards creating CSExplore involved doing a lot of research into the different resources available for learning Computer Science as well as what kind of tools we could use to create the app. In addition, we also individually created wireframe mockups on how we each imagined the application to look like and what kind of features it would have. After combining our research results we decided to create the application using React Native and Javascript while also using Expo to help speed up our development process. We also shared our wireframe mockups with each other and combined features and ideas that seemed to work well while starting our initial app development.
