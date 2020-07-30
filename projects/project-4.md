@@ -30,6 +30,8 @@ Personally, I worked on the Whimsical Approach with my partner Quinne. The GitHu
 <img class="ui medium left floated rounded image" src="/images/landing-m3.jpg">
 <img class="ui medium right floated rounded image" src="/images/landing-m3.jpg">
 
+
+
 At the end of the virtual internship we presented CSExplore at the SURE Symposium. Below is a still image of the poster we presented (the actual poster featured animated gifs to showcase overviews of each approach). 
 
 <img class="ui medium left floated rounded image" src="/images/landing-m3.jpg">
