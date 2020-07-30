@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/OrganizationLogo1.png
 title: CSExplore Mobile Application
-permalink: projects/cotton
+permalink: projects/CSExplore
 date: 2020-07-29
 labels:
   - Mobile App Development
