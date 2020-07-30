@@ -27,8 +27,8 @@ The next step involved each of us creating individual mobile applications on our
 
 Personally, I worked on the Whimsical Approach with my partner Quinne. The GitHub for our mobile application can be viewed [here](https://github.com/radgrad/csexplore-angeliquinne). Our app uses a Hawaii theme and featured colorful background and graphics in addition to fun activities for users to use. Throughout the development process I gained experience using React Native and Expo, specifically in making mobile pages, using different navigation types, and managing data throughout the app. 
 
-<img class="ui medium left floated rounded image" src="/images/landing-m3.jpg">
-<img class="ui medium right floated rounded image" src="/images/landing-m3.jpg">  
+<img class="ui medium left rounded image" src="/images/landing-m3.jpg">
+<img class="ui medium right rounded image" src="/images/landing-m3.jpg">  
 
 At the end of the virtual internship we presented CSExplore at the SURE Symposium. Below is a still image of the poster we presented (the actual poster featured animated gifs to showcase overviews of each approach). 
 
