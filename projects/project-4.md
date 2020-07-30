@@ -21,8 +21,15 @@ During the summer of 2020 I participated in a virtual internship with RadGrad an
 
 Our first step towards creating CSExplore involved doing a lot of research into the different resources available for learning Computer Science as well as what kind of tools we could use to create the app. In addition, we also individually created wireframe mockups on how we each imagined the application to look like and what kind of features it would have. After combining our research results we decided to create the application using React Native and Javascript while also using Expo to help speed up our development process. We also shared our wireframe mockups with each other and combined features and ideas that seemed to work well while starting our initial app development.
 
+<img class="ui small right floated rounded image" src="/images/landing-m3.jpg">
+
 The next step involved each of us creating individual mobile applications on our own. From there, we realized that there was an equal split as to the types of approaches our members had while creating the app. After discussion we labeled these two approaches as the “Whimsical Approach” and the “Professional Approach” and decided to partner up in order to create two different CSExplore apps. By doing so we hoped to make apps that would appeal to two different types of students.
 
-Personally, I worked on the Whimsical Approach with my partner Quinne. The GitHub for our mobile application can be viewed here. Our app had a Hawaii theme and featured colorful background and graphics in addition to fun activities for users to use. Throughout the development process I gained experience using React Native and Expo, specifically in making mobile pages, using different navigation types, and managing data throughout the app. 
+Personally, I worked on the Whimsical Approach with my partner Quinne. The GitHub for our mobile application can be viewed [here](https://github.com/radgrad/csexplore-angeliquinne). Our app uses a Hawaii theme and featured colorful background and graphics in addition to fun activities for users to use. Throughout the development process I gained experience using React Native and Expo, specifically in making mobile pages, using different navigation types, and managing data throughout the app. 
+
+<img class="ui medium left floated rounded image" src="/images/landing-m3.jpg">
+<img class="ui medium right floated rounded image" src="/images/landing-m3.jpg">
 
 At the end of the virtual internship we presented CSExplore at the SURE Symposium. Below is a still image of the poster we presented (the actual poster featured animated gifs to showcase overviews of each approach). 
+
+<img class="ui medium left floated rounded image" src="/images/landing-m3.jpg">
