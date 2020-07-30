@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/OrganizationLogo1.png
-title: CSExplore Mobile Application
+title: CSExplore Mobile App
 permalink: projects/CSExplore
 date: 2020-07-29
 labels:
