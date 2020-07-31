@@ -15,7 +15,7 @@ labels:
 summary: A mobile application developed through a virtual internship with RadGrad.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/radgrad.jpg">
+<img class="ui medium right floated rounded image" src="/images/radgrad.png">
 
 During the summer of 2020 I participated in a virtual internship with RadGrad and worked with three others to create a mobile application called CSExplore. The mobile app is targeted towards Hawaii high school students and aims to improve the Computer Science pipeline from high school to college by encouraging interest and awareness in Computer Science. It offers engaging content that will allow students to learn more about Computer Science topics and connect them to local CS communities and opportunities. 
 
