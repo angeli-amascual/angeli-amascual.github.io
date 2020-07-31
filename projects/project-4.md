@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/OrganizationLogo1.png
+image: images/CSExploreSign.png
 title: CSExplore Mobile Application
 permalink: projects/CSExplore
 date: 2020-07-29
