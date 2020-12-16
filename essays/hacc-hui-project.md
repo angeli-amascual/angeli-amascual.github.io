@@ -20,11 +20,11 @@ Throughout development I participated in creating and improving different parts 
 <img class="ui large rounded image" src="../images/homepage.png">
 
 I also added a ‘List Participants’ page for the site administrators. This page is only accessible to the site administrators. It shows a list of all of the participants who have signed up on HACC-Hui. On this page, the administrators are also able to filter the list of participants. One way this can be done by typing the participant’s name in the search bar. They can also select one or more skills, tools, or challenges from the labeled drop down menus and have the participant list filtered that way. The skills, tools, challenges section also allows for the administrators to type and filter the selected option, making it easier for them to choose instead of having to scroll through all of the options.
-<img class="ui medium rounded image" src="../images/listparticipantsadmin.png">
+<img class="ui large rounded image" src="../images/listparticipantsadmin.png">
 
 Another functionality I added was the ‘Suggest a New Tool or Skill’ feature. On the participant’s side, it allows for them to submit either a tool or a skill. Once submitted, the web application takes in the type (either tool or skill) as well as the name and description of the tool/skill they want to suggest. This is then stored in a database and becomes available for the administrators to view. On the administrator’s side, there is a page where they can view all of the tool and skill suggestions made. From this page, they will be able to see the suggestion type, the email of the participant who suggested it, as well as the name and description of the suggested tool/skill. It also features a delete button and a filter to allow for easy navigation for the administrators.
-<img class="ui medium rounded image" src="../images/participantsuggestion.png">
-<img class="ui medium rounded image" src="../images/listsuggestionsadmin.png">
+<img class="ui large rounded image" src="../images/participantsuggestion.png">
+<img class="ui large rounded image" src="../images/listsuggestionsadmin.png">
 
 ## Team Process
 
